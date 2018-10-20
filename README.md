@@ -1,2 +1,0 @@
-# UCM.CSE031
-# UCM..CSE031
